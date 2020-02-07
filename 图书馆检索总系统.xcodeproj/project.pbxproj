@@ -28,7 +28,6 @@
 /* Begin PBXFileReference section */
 		0B0EFA5F238C2ADF0025EE9E /* 图书馆检索总系统 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "图书馆检索总系统"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B0EFA62238C2ADF0025EE9E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0B0EFA69238C2AED0025EE9E /* Book.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
 		0B0EFA6A238C2AED0025EE9E /* Book.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
 		0B0EFA6C238C2CEF0025EE9E /* Library.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Library.h; sourceTree = "<group>"; };
 		0B0EFA6D238C2CEF0025EE9E /* Library.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Library.m; sourceTree = "<group>"; };
@@ -69,7 +68,6 @@
 				0B0EFA62238C2ADF0025EE9E /* main.m */,
 				0B0EFA6C238C2CEF0025EE9E /* Library.h */,
 				0B0EFA6D238C2CEF0025EE9E /* Library.m */,
-				0B0EFA69238C2AED0025EE9E /* Book.h */,
 				0B0EFA6A238C2AED0025EE9E /* Book.m */,
 				0B27D938238FE894006B9E24 /* Student.h */,
 				0B27D939238FE894006B9E24 /* Student.m */,
